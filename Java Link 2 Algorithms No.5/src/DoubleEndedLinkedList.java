@@ -1,6 +1,5 @@
-
 public class DoubleEndedLinkedList {
-
+//Με αυτό θα βγάλεις περισσότερη άκρη: http://www.newthinktank.com/2013/03/linked-list-in-java-2/ :P
 	Neighbor firstLink;
 	Neighbor lastLink;
 	
